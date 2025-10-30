@@ -1,5 +1,5 @@
 // 1. IMPORTANT: Replace this with your actual API Gateway URL:
-const apiUrl = 'API-KEY';
+const apiUrl = 'https://d4rr4iom98.execute-api.us-east-1.amazonaws.com/default/ProcessFormSubmission';
 
 const form = document.getElementById('form');
 const msg = document.getElementById('msg');
